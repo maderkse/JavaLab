@@ -12,5 +12,10 @@ public class Main
 //		RegTest rt1 = new RegTest();
 //		rt1.helloWorld();
 //		rt1.test();
+		
+//      File operations
+		FileTest ft1 = new FileTest();
+		ft1.helloWorld();
+//		rt1.test();
 	}
 }
