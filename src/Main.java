@@ -16,6 +16,6 @@ public class Main
 //      File operations
 		FileTest ft1 = new FileTest();
 		ft1.helloWorld();
-//		rt1.test();
+		ft1.run();
 	}
 }
