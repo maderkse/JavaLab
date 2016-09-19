@@ -9,8 +9,8 @@ public class Main
 		System.out.println("----------------------------------");
         
 		//OCP H8 Regex
-		RegTest rt1 = new RegTest();
-		rt1.helloWorld();
-		rt1.test();
+//		RegTest rt1 = new RegTest();
+//		rt1.helloWorld();
+//		rt1.test();
 	}
 }
