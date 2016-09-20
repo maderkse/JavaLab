@@ -17,5 +17,9 @@ public class Main
 		FileTest ft1 = new FileTest();
 		ft1.helloWorld();
 		ft1.run();
+		
+//		Question Answer
+		Question q1 = new Question("","");
+		q1.helloWorld();
 	}
 }

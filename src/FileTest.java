@@ -27,7 +27,7 @@ public class FileTest
 			LineNumberReader lineNumberReader = new LineNumberReader(fileReader);
 			System.out.println(lineNumberReader.readLine());
 			
-			
+			System.out.println("----------------------------------");
 		}
 		catch (IOException e)
 		{System.out.println(e.getMessage());}
